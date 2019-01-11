@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: .git/
 Disallow: .gitignore
+Disallow: .circleci
 Sitemap: https://www.madebycollins.com/sitemap.xml
