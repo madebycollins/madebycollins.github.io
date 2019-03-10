@@ -2,4 +2,7 @@ User-agent: *
 Disallow: .git/
 Disallow: .gitignore
 Disallow: .circleci
+Disallow: /ghost/
+Disallow: /p/
 Sitemap: https://www.madebycollins.com/sitemap.xml
+Sitemap: https://www.madebycollins.com/blog/sitemap.xml
